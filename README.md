@@ -2,16 +2,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Senior-Software_Engineer-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Experience-8+_Years-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Spring_Boot_%26_Architecture-orange?style=for-the-badge">
 </p>
 
-<h3 align="center">Senior Fullstack Developer | Specialized in Scalable Architectures & JVM Ecosystem</h3>
+<h3 align="center">Senior Fullstack Developer | Expert in Scalable Architectures & DevOps Mindset</h3>
 
 ---
 
 ### 📝 About Me
-Desarrollador Senior con más de **8 años de trayectoria** transformando requerimientos complejos en soluciones de software de alto impacto. Mi experiencia incluye 4 años en multinacionales como **Indra**, liderando y colaborando en proyectos de misión crítica bajo metodologías ágiles (Scrum).
+Desarrollador Senior con más de **8 años de trayectoria** liderando soluciones de software robustas. Mi experiencia incluye 4 años en **Indra**, colaborando en proyectos de misión crítica. Mi enfoque actual es la entrega de valor a través de **arquitecturas limpias** y la automatización total del ciclo de vida del software.
 
-Me especializo en el ecosistema **JVM (Java/Kotlin)** y **Frontend (Angular)**, con un fuerte enfoque en **Arquitectura Limpia**, **Dockerización** y **DevOps**. Mi objetivo es diseñar sistemas que no solo funcionen, sino que sean escalables, testeables y fáciles de mantener.
+---
+
+### 🚀 Specialist Knowledge (CI/CD & DevOps)
+No solo escribo código; aseguro su entrega eficiente y segura:
+- 🎡 **CI/CD Pipelines:** Automatización de flujos con **GitHub Actions** y **Jenkins**.
+- 🐳 **Containerization:** Orquestación de entornos productivos con **Docker** y **Docker Compose**.
+- 🔐 **Quality Gate:** Implementación de análisis estático de código y estrategias de **Unit/Integration Testing**.
+- ☁️ **Cloud Deployment:** Gestión de servidores **VPS (DigitalOcean/Hetzner)** y Reverse Proxies (Nginx).
 
 ---
 
@@ -19,21 +27,12 @@ Me especializo en el ecosistema **JVM (Java/Kotlin)** y **Frontend (Angular)**, 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) |
-| **Mobile** | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white) |
-| **DevOps & DB** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
+| **Backend & Core** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reeb-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeb-dev&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
 
 ### 📫 Connect with me:
 <p align="left">
