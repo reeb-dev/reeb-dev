@@ -3,7 +3,7 @@
 **Senior Software Engineer** · Android · Java/Spring · Angular  
 8 años en consultora. Sistemas en producción: los mantengo, los hago evolucionar y les sumo funcionalidad sin romper lo que ya anda.
 
-Indra (2022–2025) · BP4 (2025– ) · Argentina
+Siskit (2018–2022) · Indra (2022–2025) · BP4 (2025– ) · Argentina
 
 ## Stack
 
