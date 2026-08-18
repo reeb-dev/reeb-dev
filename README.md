@@ -12,7 +12,7 @@ Siskit (2018–2022) · Indra (2022–2025) · BP4 (2025– ) · Argentina
 | **Android** | Kotlin / Java, MVVM, Material, Firebase, APIs REST |
 | **Backend** | Java, Spring Boot, PostgreSQL |
 | **Web** | Angular, TypeScript |
-| **Día a día** | Git, code review, entregas a entornos, equipos ágiles |
+| **Día a día** | Git, code review, entregas a entornos, equipos ágiles · IA como acelerador (implementación y revisión), con ownership de lo que llega a prod |
 
 También trabajé con Laravel, Node y Flutter cuando el proyecto lo pidió.
 
