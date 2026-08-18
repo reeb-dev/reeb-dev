@@ -1,28 +1,28 @@
 # Manuel Reeb
 
-Desarrollador de software senior. 8 años en consultora, sobre sistemas que ya están en producción: mantenimiento, evolución y funcionalidad nueva sin romper lo que anda.
-
-**Android (Kotlin/Java)** · **Java / Spring Boot** · **Angular**
+**Senior Software Engineer** · Android · Java/Spring · Angular  
+8 años en consultora. Sistemas en producción: los mantengo, los hago evolucionar y les sumo funcionalidad sin romper lo que ya anda.
 
 Indra (2022–2025) · BP4 (2025– ) · Argentina
 
-No tengo título de ingeniero. El rol es software engineer / desarrollador senior.
+## Stack
 
-## Qué hago
+| | |
+| :--- | :--- |
+| **Android** | Kotlin / Java, MVVM, Material, Firebase, APIs REST |
+| **Backend** | Java, Spring Boot, PostgreSQL |
+| **Web** | Angular, TypeScript |
+| **Día a día** | Git, code review, entregas a entornos, equipos ágiles |
 
-- Android nativo (Java/Kotlin, MVVM/MVP, APIs, Firebase)
-- Backend Java (Spring Boot, APIs REST)
-- Frontend Angular (TypeScript)
+También trabajé con Laravel, Node y Flutter cuando el proyecto lo pidió.
 
-Laravel, Node y Flutter los usé; no son el eje de lo que busco hoy.
+## En público
 
-## Repos públicos
+El código de cliente no está acá. Estos dos repos muestran el tipo de trabajo (horas, OTs, Spring + Angular):
 
-El trabajo de cliente (Indra, BP4) es privado. Acá hay recortes de práctica y de herramientas internas:
-
-- [sistemahoras](https://github.com/reeb-dev/sistemahoras) — carga de horas / OTs, Spring Boot
-- [imputacion-horas-bp4](https://github.com/reeb-dev/imputacion-horas-bp4) — frontend Angular del mismo flujo
+- [sistemahoras](https://github.com/reeb-dev/sistemahoras)
+- [imputacion-horas-bp4](https://github.com/reeb-dev/imputacion-horas-bp4)
 
 ## Contacto
 
-- LinkedIn: [linkedin.com/in/manuel-jesus-reeb](https://linkedin.com/in/manuel-jesus-reeb)
+[LinkedIn](https://linkedin.com/in/manuel-jesus-reeb)
